@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **react,c++,java**
 
-- 📫 How to reach me **shiniu22@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shainirose&label=Profile%20views&color=0e75b6&style=flat" alt="shainirose" /> </p>
 
